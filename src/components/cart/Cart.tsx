@@ -239,7 +239,7 @@ const Cart=()=> {
                                     >
                                         Proceed to Checkout
                                         
-                                    </button>
+                                     </button>
 
                                     <div className='mt-4 space-y-2'>
                                         <div className='flex items-center gap-2 text-sm text-gray-500'>
